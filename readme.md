@@ -1,3 +1,3 @@
-# NCGS 2022
+# Educator Workshops 2022
 
-[live site](https://dkessner.github.io/ncgs2022/)
+[live site](https://dkessner.github.io/edwork2022/)
