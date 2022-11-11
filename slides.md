@@ -76,7 +76,7 @@ _FOSS is everywhere_
 
 ## Open Source Educational Software
 
-<br/> <br/> <br/> <br/>
+<br/> <br/> 
 
 .center[
 
@@ -89,6 +89,13 @@ _FOSS is everywhere_
 <a href="https://processing.org/" target="_blank">![](logos/processing_logo.png)</a>
 ![](logos/right_arrow_10.png)
 <a href="https://www.arduino.cc/" target="_blank">![](logos/arduino_logo.png) Arduino</a>
+
+<br/>
+<hr/>
+<br/>
+
+<a href="https://www.python.org/" target="_blank">![](logos/python_logo.png)</a>
+
 
 ]
 
@@ -121,10 +128,14 @@ Public domain books
 
 ## Open Textbooks
 
+<br/> 
+
 AP Computer Science A
 
 * <a href="http://math.hws.edu/javanotes" target="_blank">David J Eck, Introduction to Programming Using Java</a>
 * <a href="https://en.wikibooks.org/wiki/Java_Programming" target="_blank">Wikibooks Java Programming</a>
+
+<br/> 
 
 Precalculus / Calculus
 
@@ -140,11 +151,9 @@ subjects.
 
 ## Open Data
 
+<br/> <br/> 
+
 .center[
-
-<a href="https://www.python.org/" target="_blank">![](logos/python_logo.png)</a>
-
-<hr/>
 
 <a href="https://www.data.gov/" target="_blank">![](logos/data_gov_logo.png)</a>
 
